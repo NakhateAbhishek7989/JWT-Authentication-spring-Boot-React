@@ -1,7 +1,0 @@
-package com.org.jwt.config;
-
-import org.springframework.web.filter.OncePerRequestFilter;
-
-public class JwtFilter extends OncePerRequestFilter{
-
-}
